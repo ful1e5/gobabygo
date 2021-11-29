@@ -1,0 +1,11 @@
+name: "gobabygo"
+description: "A nonsense 'Hello World' with GitHub Action."
+author: "Kaiz Khatri"
+
+runs:
+  using: "node12"
+  main: "index.js"
+
+branding:
+  icon: "trash"
+  color: "gray-dark"
