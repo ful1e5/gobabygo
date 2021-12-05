@@ -1,5 +1,5 @@
 name: "gobabygo"
-description: "A nonsense 'Hello World' with GitHub Action."
+description: "A nonsense 'Hello World' program with GitHub Action and JavaScript. (which failed)"
 author: "Kaiz Khatri"
 
 runs:
